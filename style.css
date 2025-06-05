@@ -1,11 +1,12 @@
-body {background-color: aquamarine;
-    background-color: rgb(60, 36, 6);
-    font-family: Arial, Helvetica, sans-serif;
+body {
+    background-color: rgb(101, 3, 3);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: azure;
 }
 
 footer {
-    background-color: rgb(201, 21, 21);
-    color: white;
+    background-color: rgb(215, 193, 193);
+    color: rgb(201, 85, 85);
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -17,3 +18,4 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+
